@@ -10,11 +10,8 @@ addEventListener('fetch', (event) => {
 async function handleRequest(request) {
     // Define an array of subscription URLs
     const subscriptionUrls = [
-        // YeBeKhe
-        'https://raw.githubusercontent.com/kavesenatori/tuic/main/xwbox'
-        // Other
-        'https://zebelkhan10.fallahpour25.workers.dev/sub/74f829f3-480b-4e7f-8039-9418d055375b',
-        'https://tackserver-code.ir/api/json/VpnMaan.json',
+        // kave
+        'https://raw.githubusercontent.com/kavesenatori/tuic/main/xwbox
         // Add more URLs as needed
     ];
 
